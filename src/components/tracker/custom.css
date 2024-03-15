@@ -1,0 +1,7 @@
+.react-flow__edge-path {
+    stroke: #222; /* Dark color (adjustable) */
+  }
+  
+  .react-flow__edge-path.selected {
+    stroke: #f00; /* Optional: Different color for selected edges */
+  }
